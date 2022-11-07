@@ -1,0 +1,73 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    justify-content: center;
+    
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-color: rgb(3, 35, 110);
+}
+.container {
+    position: relative;
+    background-image: url(/html/imagenes/bg.png);
+    background-size: cover;
+    padding: 25px;
+    border-radius: 28px;
+    max-width: 380px;
+    width: 100%;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1) ;
+}
+header,
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo img {
+    width: 46px;
+}
+h5{
+  font-size: 16px;
+  font-weight: 400px;
+}
+
+header .chip{
+    width: 46px;
+}
+.master-card{
+    padding: 13px;
+    color: wheat;
+}
+
+h5.number{
+ margin-top:  4px;
+ font-size: 18px;
+ letter-spacing: 1px;
+ color: wheat;
+}
+
+
+h5.name{
+    margin-top:  4px;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color: wheat;
+    padding-top: 12px;
+   }
+   
+
+.container .card-details {
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    color: wheat;
+}
+@import url('https://fonts.googleapis.com/css2? family= Lato:wght@700 & display=swap')

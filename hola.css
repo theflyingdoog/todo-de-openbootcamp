@@ -1,0 +1,31 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    padding: 10px;
+    background-color: grey;
+}
+
+.container a{
+    width: 100%;
+    padding: 8px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    text-decoration: none;
+    color: white;
+    width: 30px;
+    height: 35px;
+}
+
+.container p{
+    color: blueviolet;
+    font-size: 1.90em;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+

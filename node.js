@@ -1,0 +1,5 @@
+console.log("hola estoy saliendo por pantalla")
+console.info("")
+console.debug("")
+console.warn("")
+console.error("")

@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.formulario-registro-practica{
+    width: 400px;
+    background-color: #333;
+    padding: 20px;
+    margin: auto;
+    margin-top: 300px;
+    border-radius: 4px;
+    box-shadow: 17px 9px 41px #24303c;
+    text-decoration: none;
+}
+.formulario-registro-practica h4{
+    padding: 20px;
+    font-size: 22px;
+    margin-bottom: 36px;
+    text-align: center;
+    font-size: 1.25em;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.controls{
+    width: 100%;
+    background-color: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid #239ada;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+.formulario-registro-practica p{
+    text-align: center;
+    padding: 3px;
+    color: white;
+}
+.formulario-registro-practica a{
+    width: 100%;
+    background-color: #1f53c5;
+    padding: 12px;
+    margin-bottom: 8px;
+    border: none;
+    color: white;
+    margin: 16px 0px;
+    font-size: 15px;
+    text-decoration: none;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
